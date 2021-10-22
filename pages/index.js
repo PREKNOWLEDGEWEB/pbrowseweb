@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>PBrowse Official</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to PBrowse!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Join Discord for downloads and updates: <a href="discord.gg/3qS69y5UK2">Join!</a>
         </p>
       </main>
 

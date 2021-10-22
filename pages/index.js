@@ -15,6 +15,7 @@ export default function Home() {
         <Header title="Welcome to PBrowse!" />
         <p className="description">
           Join Discord for downloads and updates: <a class="btn btn-info" href="discord.gg/3qS69y5UK2">Join!</a>
+        </p>
               <div class="container">
               <div class="row">
 
@@ -40,7 +41,7 @@ export default function Home() {
 
               </div>
               </div>
-        </p>
+        
       </main>
 
       <Footer />

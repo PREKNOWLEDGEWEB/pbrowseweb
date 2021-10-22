@@ -16,8 +16,6 @@ export default function Home() {
         <p className="description">
           Join Discord for downloads and updates: <a class="btn btn-info" href="discord.gg/3qS69y5UK2">Join!</a>
         </p>
-                <img src="https://www.pbrowse.ml/webres/shot-1.png" class="card-img-top" alt="PBrowse "/>
-                <img src="https://www.pbrowse.ml/webres/shot-2.png" class="card-img-top" alt="PBrowse "/>
       </main>
 
       <Footer />

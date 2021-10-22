@@ -16,32 +16,8 @@ export default function Home() {
         <p className="description">
           Join Discord for downloads and updates: <a class="btn btn-info" href="discord.gg/3qS69y5UK2">Join!</a>
         </p>
-              <div class="container">
-              <div class="row">
-
-              <div class="col-4 mb-2">
-              <div class="card" style="width: 18rem;">
                 <img src="https://www.pbrowse.ml/webres/shot-1.png" class="card-img-top" alt="PBrowse "/>
-                <div class="card-body">
-                  <h5 class="card-title">Quick Link</h5>
-                  <p class="card-text">Quickly Visit sites via quick links easy</p>
-                </div>
-              </div>
-              </div>
-
-              <div class="col-4 mb-2">
-              <div class="card" style="width: 18rem;">
                 <img src="https://www.pbrowse.ml/webres/shot-2.png" class="card-img-top" alt="PBrowse "/>
-                <div class="card-body">
-                  <h5 class="card-title">View News</h5>
-                  <p class="card-text">Latest news on your newtab page</p>
-                </div>
-              </div>
-              </div>
-
-              </div>
-              </div>
-        
       </main>
 
       <Footer />
